@@ -1,5 +1,5 @@
 #!/bin/bash
-a=1
+a=10
 if [ $a -ne 10 ]
 then
 	echo "RAM is not 10 so not proceeding"
